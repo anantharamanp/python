@@ -1,0 +1,6 @@
+print("enter 3 nos")
+a=input()
+b=input()
+c=input()
+d=max(a,b,c)
+print("Max="+str(d))
